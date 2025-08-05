@@ -21,26 +21,26 @@
 
 ```yaml
 Languages:
-  - Kotlin
+  - C | C++ | C#
+  - Html | CSS | Tailwind | Bootstrap
+  - Kotlin | Java
   - JavaScript (React)
-  - Dart (learning)
+  - Pyhton (Numpy , Panda , MatplotLib , Seaborn)
 
 Backend & DB:
-  - Firebase (Auth, Firestore, Realtime DB, Storage)
   - Node.js (Express)
-  - MongoDB
+  - SpringBoot
+  - .NET 
+  - Firebase (Auth, Firestore, Realtime DB, Storage)
+  - SQL | mySQL
 
 Mobile:
   - Android (Kotlin)
-  - Flutter (learning)
 
 Tools & Practices:
   - Git / GitHub
   - Clean Architecture
-  - SharedPreferences
-  - Glide / Coil
-  - MVVM
-  - CI/CD basics
+
 ```
 
 ---
@@ -60,9 +60,8 @@ I'm open to:
 - 🤝 Contributing to open source  
 - 💻 Collaborating on real-world apps  
 - 🌍 Remote internships or junior-level opportunities  
-- ✍️ Developer content creation (articles, tutorials)
 
-📩 Reach me on [LinkedIn](https://linkedin.com/in/jabeen-zahra)  
+📩 Reach me on [LinkedIn](https://www.linkedin.com/in/jabeen-zahra/)  
 👀 Peek into more of my work right here on GitHub!
 
 ---
